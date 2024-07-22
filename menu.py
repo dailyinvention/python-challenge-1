@@ -173,7 +173,7 @@ while place_order:
             break
         else:
             # Tell the customer to try again
-            print("Please type (Y)es or (N)o.")
+            print("Please try again.  Make sure to type (Y)es or (N)o.")
 
 
 # Print out the customer's order
