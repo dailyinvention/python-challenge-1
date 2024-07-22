@@ -161,6 +161,7 @@ while place_order:
             # Keep ordering
             case 'y':
                 # Exit the keep ordering question loop
+                place_order = True
                 break
             # Complete the order
             case 'n':
